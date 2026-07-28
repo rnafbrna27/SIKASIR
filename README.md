@@ -63,7 +63,7 @@ php artisan serve
 
 ## 👨‍💻 Developer
 
-**Rifki**
+**RENA PEBRIANA**
 
 GitHub: https://github.com/rnafbrna27
 
