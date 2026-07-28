@@ -55,10 +55,10 @@ SIKASIR adalah aplikasi kasir berbasis web yang dikembangkan untuk membantu pros
 ![laporan](screenshots/laporan.jpeg)
 ## 📸 detail transaksi
 
-![detail transaksi](screenshots/detail-transaksi.jpeg)
+![detail transaksi](screenshots/detailtransaksi.jpeg)
 ## 📸 invoice
 
-![invoice](screenshots/invoice.jpeg)
+![invoice](screenshots/invoicepdf.jpeg)
 
 ---
 
